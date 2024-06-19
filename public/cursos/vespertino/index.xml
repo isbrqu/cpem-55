@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turno Vespertino on CPEM 55</title>
+    <link>http://localhost:1313/cpem-55/cursos/vespertino/</link>
+    <description>Recent content in Turno Vespertino on CPEM 55</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Mar 2023 20:17:39 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/cpem-55/cursos/vespertino/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3A</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/3A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:39 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/3A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3B</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/3B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:39 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/3B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2A</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/2A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/2A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2B</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/2B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/2B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2C</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/2C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/2C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1B</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/1B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/1B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1C</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/1C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/1C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1D</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/1D/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/1D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1A</title>
+      <link>http://localhost:1313/cpem-55/cursos/vespertino/1A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:36 -0300</pubDate>
+      <guid>http://localhost:1313/cpem-55/cursos/vespertino/1A/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
