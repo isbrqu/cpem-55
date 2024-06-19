@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagina principal on CPEM 55</title>
+    <link>http://localhost/</link>
+    <description>Recent content in Pagina principal on CPEM 55</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Mar 2023 21:51:48 -0300</lastBuildDate>
+    <atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preceptoria</title>
+      <link>http://localhost/personal/preceptoria/</link>
+      <pubDate>Fri, 10 Mar 2023 21:51:48 -0300</pubDate>
+      <guid>http://localhost/personal/preceptoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eventos</title>
+      <link>http://localhost/calendario/eventos/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:45 -0300</pubDate>
+      <guid>http://localhost/calendario/eventos/</guid>
+      <description>aqui van las fechas de eventos como ferias, competiciones y demás</description>
+    </item>
+    <item>
+      <title>Actos</title>
+      <link>http://localhost/calendario/actos/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:44 -0300</pubDate>
+      <guid>http://localhost/calendario/actos/</guid>
+      <description>aquí van las fechas de los actos</description>
+    </item>
+    <item>
+      <title>Feriados</title>
+      <link>http://localhost/calendario/feriados/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:44 -0300</pubDate>
+      <guid>http://localhost/calendario/feriados/</guid>
+      <description>fechas de feriados</description>
+    </item>
+    <item>
+      <title>Informatica</title>
+      <link>http://localhost/personal/informatica/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:44 -0300</pubDate>
+      <guid>http://localhost/personal/informatica/</guid>
+      <description>informacion de uso de la sala de informatica</description>
+    </item>
+    <item>
+      <title>Asesoría</title>
+      <link>http://localhost/personal/asesoria/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/asesoria/</guid>
+      <description>informacion de asesoria</description>
+    </item>
+    <item>
+      <title>Biblioteca</title>
+      <link>http://localhost/personal/biblioteca/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/biblioteca/</guid>
+      <description>informacion de biblioteca</description>
+    </item>
+    <item>
+      <title>Dirección</title>
+      <link>http://localhost/personal/direccion/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/direccion/</guid>
+      <description>informacion del personal de direccion</description>
+    </item>
+    <item>
+      <title>Laboratorio</title>
+      <link>http://localhost/personal/laboratorio/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/laboratorio/</guid>
+      <description>informacion del uso de laboratorio</description>
+    </item>
+    <item>
+      <title>Secretaría</title>
+      <link>http://localhost/personal/secretaria/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/secretaria/</guid>
+      <description>inforamcion general de secretaria</description>
+    </item>
+    <item>
+      <title>3A</title>
+      <link>http://localhost/cursos/vespertino/3A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:39 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/3A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3B</title>
+      <link>http://localhost/cursos/vespertino/3B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:39 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/3B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2A</title>
+      <link>http://localhost/cursos/vespertino/2A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/2A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2B</title>
+      <link>http://localhost/cursos/vespertino/2B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/2B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2C</title>
+      <link>http://localhost/cursos/vespertino/2C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/2C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1B</title>
+      <link>http://localhost/cursos/vespertino/1B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/1B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1C</title>
+      <link>http://localhost/cursos/vespertino/1C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/1C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1D</title>
+      <link>http://localhost/cursos/vespertino/1D/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/1D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1A</title>
+      <link>http://localhost/cursos/vespertino/1A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:17:36 -0300</pubDate>
+      <guid>http://localhost/cursos/vespertino/1A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4C</title>
+      <link>http://localhost/cursos/tarde/4C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:51 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/4C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5A</title>
+      <link>http://localhost/cursos/tarde/5A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:51 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/5A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5C</title>
+      <link>http://localhost/cursos/tarde/5C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:51 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/5C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3C</title>
+      <link>http://localhost/cursos/tarde/3C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:50 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/3C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D</title>
+      <link>http://localhost/cursos/tarde/3D/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:50 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/3D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4A</title>
+      <link>http://localhost/cursos/tarde/4A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:50 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/4A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1D</title>
+      <link>http://localhost/cursos/tarde/1D/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:49 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/1D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2C</title>
+      <link>http://localhost/cursos/tarde/2C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:49 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/2C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2D</title>
+      <link>http://localhost/cursos/tarde/2D/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:49 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/2D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1C</title>
+      <link>http://localhost/cursos/tarde/1C/</link>
+      <pubDate>Fri, 10 Mar 2023 20:15:48 -0300</pubDate>
+      <guid>http://localhost/cursos/tarde/1C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>5B</title>
+      <link>http://localhost/cursos/manana/5B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:14:00 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/5B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3B</title>
+      <link>http://localhost/cursos/manana/3B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:59 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/3B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4B</title>
+      <link>http://localhost/cursos/manana/4B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:59 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/4B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4D</title>
+      <link>http://localhost/cursos/manana/4D/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:59 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/4D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2B</title>
+      <link>http://localhost/cursos/manana/2B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:58 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/2B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2E</title>
+      <link>http://localhost/cursos/manana/2E/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:58 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/2E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3A</title>
+      <link>http://localhost/cursos/manana/3A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:58 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/3A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1E</title>
+      <link>http://localhost/cursos/manana/1E/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:57 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/1E/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2A</title>
+      <link>http://localhost/cursos/manana/2A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:13:57 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/2A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1B</title>
+      <link>http://localhost/cursos/manana/1B/</link>
+      <pubDate>Fri, 10 Mar 2023 20:08:59 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/1B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>1A</title>
+      <link>http://localhost/cursos/manana/1A/</link>
+      <pubDate>Fri, 10 Mar 2023 20:08:55 -0300</pubDate>
+      <guid>http://localhost/cursos/manana/1A/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>http://localhost/novedades/post-3/</link>
+      <pubDate>Fri, 10 Mar 2023 19:54:06 -0300</pubDate>
+      <guid>http://localhost/novedades/post-3/</guid>
+      <description>Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>http://localhost/novedades/post-2/</link>
+      <pubDate>Fri, 10 Mar 2023 19:54:03 -0300</pubDate>
+      <guid>http://localhost/novedades/post-2/</guid>
+      <description>Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>http://localhost/novedades/post-1/</link>
+      <pubDate>Fri, 10 Mar 2023 19:53:57 -0300</pubDate>
+      <guid>http://localhost/novedades/post-1/</guid>
+      <description>Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+  </channel>
+</rss>

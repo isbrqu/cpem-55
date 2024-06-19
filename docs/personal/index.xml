@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on CPEM 55</title>
+    <link>http://localhost/personal/</link>
+    <description>Recent content in Personal on CPEM 55</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 10 Mar 2023 21:51:48 -0300</lastBuildDate>
+    <atom:link href="http://localhost/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preceptoria</title>
+      <link>http://localhost/personal/preceptoria/</link>
+      <pubDate>Fri, 10 Mar 2023 21:51:48 -0300</pubDate>
+      <guid>http://localhost/personal/preceptoria/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Informatica</title>
+      <link>http://localhost/personal/informatica/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:44 -0300</pubDate>
+      <guid>http://localhost/personal/informatica/</guid>
+      <description>informacion de uso de la sala de informatica</description>
+    </item>
+    <item>
+      <title>Asesoría</title>
+      <link>http://localhost/personal/asesoria/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/asesoria/</guid>
+      <description>informacion de asesoria</description>
+    </item>
+    <item>
+      <title>Biblioteca</title>
+      <link>http://localhost/personal/biblioteca/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/biblioteca/</guid>
+      <description>informacion de biblioteca</description>
+    </item>
+    <item>
+      <title>Dirección</title>
+      <link>http://localhost/personal/direccion/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/direccion/</guid>
+      <description>informacion del personal de direccion</description>
+    </item>
+    <item>
+      <title>Laboratorio</title>
+      <link>http://localhost/personal/laboratorio/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/laboratorio/</guid>
+      <description>informacion del uso de laboratorio</description>
+    </item>
+    <item>
+      <title>Secretaría</title>
+      <link>http://localhost/personal/secretaria/</link>
+      <pubDate>Fri, 10 Mar 2023 21:44:43 -0300</pubDate>
+      <guid>http://localhost/personal/secretaria/</guid>
+      <description>inforamcion general de secretaria</description>
+    </item>
+  </channel>
+</rss>
