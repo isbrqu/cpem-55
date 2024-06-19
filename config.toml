@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://isbrqu.github.io/cpem-55/"
 title = "CPEM 55"
 theme = "hugo-geekdoc"
 
