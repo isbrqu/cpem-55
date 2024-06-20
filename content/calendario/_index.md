@@ -1,7 +1,55 @@
 ---
-title: "Calendario"
+title: 'Calendario'
 date: 2023-03-10T21:44:44-03:00
-geekdocFlatSection: true
 ---
 
-{{< toc-tree >}}
+<style>
+.gdoc-button.jornada {
+  background: var(--mark-color);
+  color: black;
+}
+</style>
+
+<style>
+.gdoc-button.acto {
+  background: #87CEFA;
+  color: black;
+}
+.gdoc-button.clase {
+  background: var(--accent-color-lite);
+  color: black;
+}
+.gdoc-button.feriado {
+  background: #8C79FF;
+  color: white;
+}
+.gdoc-button.vacacion {
+  background: #4169E1;
+  color: white;
+}
+</style>
+
+{{< c >}}Clase{{< /c >}}
+{{< a >}}Acto{{< /a >}}
+{{< j >}}Jornada{{< /j >}}
+{{< f >}}Feriado{{< /f >}}
+{{< v >}}Vacaciones{{< /v >}}
+
+# Año 2024
+
+## Junio
+
+|        Lun        |        Mar        |        Mie        |        Jue        |        Vie        |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| {{<f>}}18{{</f>}} | {{<c>}}17{{</c>}} | {{<c>}}19{{</c>}} | {{<f>}}20{{</f>}} | {{<f>}}21{{</f>}} |
+| {{<a>}}24{{</a>}} | {{<c>}}25{{</c>}} | {{<j>}}26{{</j>}} | {{<c>}}27{{</c>}} | {{<c>}}28{{</c>}} |
+
+## Julio
+
+|        Lun        |        Mar        |        Mie        |        Jue        |        Vie        |
+| :---------------: | :---------------: | :---------------: | :---------------: | :---------------: |
+| {{<c>}}1{{</c>}}  | {{<c>}}2{{</c>}}  | {{<c>}}3{{</c>}}  | {{<c>}}3{{</c>}}  | {{<c>}}4{{</c>}}  |
+| {{<v>}}8{{</v>}}  | {{<v>}}9{{</v>}}  | {{<v>}}10{{</v>}} | {{<v>}}11{{</v>}} | {{<v>}}12{{</v>}} |
+| {{<v>}}15{{</v>}} | {{<v>}}16{{</v>}} | {{<v>}}17{{</v>}} | {{<v>}}18{{</v>}} | {{<v>}}19{{</v>}} |
+| {{<c>}}22{{</c>}} | {{<c>}}23{{</c>}} | {{<c>}}24{{</c>}} | {{<c>}}25{{</c>}} | {{<c>}}26{{</c>}} |
+| {{<c>}}29{{</c>}} | {{<c>}}30{{</c>}} | {{<c>}}31{{</c>}} |                   |                   |
