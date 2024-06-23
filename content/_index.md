@@ -1,5 +1,5 @@
 ---
-title: 'Pagina principal'
+title: 'Página principal'
 date: 2023-03-13T18:56:46-03:00
 ---
 
