@@ -1,21 +1,17 @@
 ---
 main:
   - name: Novedades
-    ref: "/novedades"
-    icon: "gdoc_notification"
+    ref: '/novedades'
+    icon: 'gdoc_notification'
   - name: Calendario
-    ref: "/calendario"
-    icon: "gdoc_date"
+    ref: '/calendario'
+    icon: 'gdoc_date'
   - name: Cursos
-    ref: "/cursos"
-    icon: "gdoc_path"
-    sub:
-        - name: Turno mañana
-          ref: "/cursos/mañana"
-        - name: Turno tarde
-          ref: "/cursos/tarde"
-        - name: Turno vespertino
-          ref: "/cursos/vespertino"
+    ref: '/cursos'
+    icon: 'gdoc_path'
   - name: Personal
-    ref: "/personal"
-    icon: "gdoc_person"
+    ref: '/personal'
+    icon: 'gdoc_person'
+  - name: Documentos
+    ref: '/documentos'
+    icon: 'gdoc_copy'
