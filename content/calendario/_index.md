@@ -17,7 +17,7 @@ date: 2023-03-10T21:44:44-03:00
 }
 .gdoc-button.clase {
   background: var(--accent-color-lite);
-  color: black;
+  color: var(--body-font-color);
 }
 .gdoc-button.feriado {
   background: #8C79FF;
