@@ -1,7 +1,6 @@
 ---
 title: 'Personal'
 date: 2023-03-10T21:44:42-03:00
-geekdocCollapseSection: true
 ---
 
 {{< expand "Dirección" "..." >}}
@@ -10,7 +9,19 @@ geekdocCollapseSection: true
 - Visedirectora (TV): America
 {{< /expand >}}
 
-{{< expand "Asesoría" "..." >}}
+{{< expand "Preceptoría" "...">}}
+- Item 1
+- Item 2
+- Item 3
+{{< /expand >}}
+
+{{< expand "Secretaría" "...">}}
+- Item 1
+- Item 2
+- Item 3
+{{< /expand >}}
+
+{{< expand "Asesoría" "...">}}
 - Asesora (TM):
 - Asesora de inclusión (TM): Kenat
 - Asesora (TT): Marisol
@@ -19,10 +30,22 @@ geekdocCollapseSection: true
 - Asesora de inclusión (TM):
 {{< /expand >}}
 
-{{< expand "Biblioteca" "..." >}}
-- Bibliotecaría (TM): Mariana
-- Bibliotecaría (TT): 
-- Bibliotecaría (TV):
+<hr>
+
+{{< expand "Biblioteca" "...">}}
+- Item 1
+- Item 2
+- Item 3
 {{< /expand >}}
 
-{{< toc-tree >}}
+{{< expand "Infomática" "...">}}
+- Item 1
+- Item 2
+- Item 3
+{{< /expand >}}
+
+{{< expand "Laboratorio" "...">}}
+- Item 1
+- Item 2
+- Item 3
+{{< /expand >}}
