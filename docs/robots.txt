@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://isbrqu.github.io/cpem-55/sitemap.xml
+Sitemap: https://cpem55.com/sitemap.xml
