@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendario on CPEM 55</title>
-    <link>https://cpem55.com/calendario/</link>
+    <link>http://cpem55.com/calendario/</link>
     <description>Recent content in Calendario on CPEM 55</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Mar 2023 21:44:44 -0300</lastBuildDate><atom:link href="https://cpem55.com/calendario/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 21:44:44 -0300</lastBuildDate><atom:link href="http://cpem55.com/calendario/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
