@@ -908,9 +908,9 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-e0c0a3f3" href="
 
     
 
-
     function showPaginator() {
-      paginator.style.display = (hidePaginator) ? 'none' : 'block';
+      if(hidePaginator) return
+      paginator.style.display = 'block';
     }
 
     
