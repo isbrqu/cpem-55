@@ -1,8 +1,10 @@
 baseURL = "http://cpem55.com"
 title = "CPEM 55"
-theme = "hugo-geekdoc"
+theme = ["hugo-embed-pdf-shortcode", "hugo-geekdoc"]
 
 defaultContentLanguage = 'es'
+
+enableInlineShortcodes = true
 
 pluralizeListTitles = false
 # Geekdoc required configuration
@@ -27,3 +29,4 @@ enableRobotsTXT = true
 
 [params]
    geekdocMenuBundle = true
+   geekdocLogo = "logo.png"

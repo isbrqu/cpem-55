@@ -1,308 +1,243 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Página principal on CPEM 55</title>
+    <title>Inicio on CPEM 55</title>
     <link>http://cpem55.com/</link>
-    <description>Recent content in Página principal on CPEM 55</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Inicio on CPEM 55</description>
+    <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 13 Mar 2023 18:56:46 -0300</lastBuildDate><atom:link href="http://cpem55.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 20:17:39 -0300</lastBuildDate>
+    <atom:link href="http://cpem55.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3A Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/3A/</link>
+      <link>http://cpem55.com/horarios/vespertino/3A/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:39 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/3A/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/3A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>3B Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/3B/</link>
+      <link>http://cpem55.com/horarios/vespertino/3B/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:39 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/3B/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/3B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2A Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/2A/</link>
+      <link>http://cpem55.com/horarios/vespertino/2A/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/2A/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/2A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2B Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/2B/</link>
+      <link>http://cpem55.com/horarios/vespertino/2B/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/2B/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/2B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2C Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/2C/</link>
+      <link>http://cpem55.com/horarios/vespertino/2C/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:38 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/2C/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/2C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1B Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/1B/</link>
+      <link>http://cpem55.com/horarios/vespertino/1B/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/1B/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/1B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1C Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/1C/</link>
+      <link>http://cpem55.com/horarios/vespertino/1C/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/1C/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/1C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1D Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/1D/</link>
+      <link>http://cpem55.com/horarios/vespertino/1D/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:37 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/1D/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/1D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1A Turno Vespertino</title>
-      <link>http://cpem55.com/cursos/vespertino/1A/</link>
+      <link>http://cpem55.com/horarios/vespertino/1A/</link>
       <pubDate>Fri, 10 Mar 2023 20:17:36 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/vespertino/1A/</guid>
+      <guid>http://cpem55.com/horarios/vespertino/1A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>4C Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/4C/</link>
+      <link>http://cpem55.com/horarios/tarde/4C/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:51 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/4C/</guid>
+      <guid>http://cpem55.com/horarios/tarde/4C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>5A Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/5A/</link>
+      <link>http://cpem55.com/horarios/tarde/5A/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:51 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/5A/</guid>
+      <guid>http://cpem55.com/horarios/tarde/5A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>5C Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/5C/</link>
+      <link>http://cpem55.com/horarios/tarde/5C/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:51 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/5C/</guid>
+      <guid>http://cpem55.com/horarios/tarde/5C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>3C Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/3C/</link>
+      <link>http://cpem55.com/horarios/tarde/3C/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:50 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/3C/</guid>
+      <guid>http://cpem55.com/horarios/tarde/3C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>3D Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/3D/</link>
+      <link>http://cpem55.com/horarios/tarde/3D/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:50 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/3D/</guid>
+      <guid>http://cpem55.com/horarios/tarde/3D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>4A Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/4A/</link>
+      <link>http://cpem55.com/horarios/tarde/4A/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:50 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/4A/</guid>
+      <guid>http://cpem55.com/horarios/tarde/4A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1D Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/1D/</link>
+      <link>http://cpem55.com/horarios/tarde/1D/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:49 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/1D/</guid>
+      <guid>http://cpem55.com/horarios/tarde/1D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2C Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/2C/</link>
+      <link>http://cpem55.com/horarios/tarde/2C/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:49 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/2C/</guid>
+      <guid>http://cpem55.com/horarios/tarde/2C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2D Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/2D/</link>
+      <link>http://cpem55.com/horarios/tarde/2D/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:49 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/2D/</guid>
+      <guid>http://cpem55.com/horarios/tarde/2D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1C Turno Tarde</title>
-      <link>http://cpem55.com/cursos/tarde/1C/</link>
+      <link>http://cpem55.com/horarios/tarde/1C/</link>
       <pubDate>Fri, 10 Mar 2023 20:15:48 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/tarde/1C/</guid>
+      <guid>http://cpem55.com/horarios/tarde/1C/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>5B Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/5B/</link>
+      <link>http://cpem55.com/horarios/manana/5B/</link>
       <pubDate>Fri, 10 Mar 2023 20:14:00 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/5B/</guid>
+      <guid>http://cpem55.com/horarios/manana/5B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>3B Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/3B/</link>
+      <link>http://cpem55.com/horarios/manana/3B/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:59 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/3B/</guid>
+      <guid>http://cpem55.com/horarios/manana/3B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>4B Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/4B/</link>
+      <link>http://cpem55.com/horarios/manana/4B/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:59 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/4B/</guid>
+      <guid>http://cpem55.com/horarios/manana/4B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>4D Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/4D/</link>
+      <link>http://cpem55.com/horarios/manana/4D/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:59 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/4D/</guid>
+      <guid>http://cpem55.com/horarios/manana/4D/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2B Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/2B/</link>
+      <link>http://cpem55.com/horarios/manana/2B/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:58 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/2B/</guid>
+      <guid>http://cpem55.com/horarios/manana/2B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2E Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/2E/</link>
+      <link>http://cpem55.com/horarios/manana/2E/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:58 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/2E/</guid>
+      <guid>http://cpem55.com/horarios/manana/2E/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>3A Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/3A/</link>
-      <pubDate>Fri, 10 Mar 2023 20:13:58 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/3A/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>1E Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/1E/</link>
+      <link>http://cpem55.com/horarios/manana/1E/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:57 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/1E/</guid>
+      <guid>http://cpem55.com/horarios/manana/1E/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>2A Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/2A/</link>
+      <link>http://cpem55.com/horarios/manana/2A/</link>
       <pubDate>Fri, 10 Mar 2023 20:13:57 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/2A/</guid>
+      <guid>http://cpem55.com/horarios/manana/2A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1B Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/1B/</link>
+      <link>http://cpem55.com/horarios/manana/1B/</link>
       <pubDate>Fri, 10 Mar 2023 20:08:59 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/1B/</guid>
+      <guid>http://cpem55.com/horarios/manana/1B/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>1A Turno Mañana</title>
-      <link>http://cpem55.com/cursos/manana/1A/</link>
+      <link>http://cpem55.com/horarios/manana/1A/</link>
       <pubDate>Fri, 10 Mar 2023 20:08:55 -0300</pubDate>
-      
-      <guid>http://cpem55.com/cursos/manana/1A/</guid>
+      <guid>http://cpem55.com/horarios/manana/1A/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Post 3</title>
-      <link>http://cpem55.com/novedades/post-3/</link>
+      <link>http://cpem55.com/old-novedades/post-3/</link>
       <pubDate>Fri, 10 Mar 2023 19:54:06 -0300</pubDate>
-      
-      <guid>http://cpem55.com/novedades/post-3/</guid>
-      <description>Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://cpem55.com/old-novedades/post-3/</guid>
+      <description>&lt;p&gt;Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit,&#xA;sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut&#xA;enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi&#xA;ut aliquip ex ea commodo consequat. Duis aute irure dolor in&#xA;reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla&#xA;pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&#xA;culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Post 2</title>
-      <link>http://cpem55.com/novedades/post-2/</link>
+      <link>http://cpem55.com/old-novedades/post-2/</link>
       <pubDate>Fri, 10 Mar 2023 19:54:03 -0300</pubDate>
-      
-      <guid>http://cpem55.com/novedades/post-2/</guid>
-      <description>Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://cpem55.com/old-novedades/post-2/</guid>
+      <description>&lt;p&gt;Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit,&#xA;sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut&#xA;enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi&#xA;ut aliquip ex ea commodo consequat. Duis aute irure dolor in&#xA;reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla&#xA;pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&#xA;culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Post 1</title>
-      <link>http://cpem55.com/novedades/post-1/</link>
+      <link>http://cpem55.com/old-novedades/post-1/</link>
       <pubDate>Fri, 10 Mar 2023 19:53:57 -0300</pubDate>
-      
-      <guid>http://cpem55.com/novedades/post-1/</guid>
-      <description>Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>http://cpem55.com/old-novedades/post-1/</guid>
+      <description>&lt;p&gt;Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit,&#xA;sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut&#xA;enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi&#xA;ut aliquip ex ea commodo consequat. Duis aute irure dolor in&#xA;reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla&#xA;pariatur. Excepteur sint occaecat cupidatat non proident, sunt in&#xA;culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>3A Turno Mañana</title>
+      <link>http://cpem55.com/horarios/manana/3A/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cpem55.com/horarios/manana/3A/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://cpem55.com/personal-button.css&#34;&gt;&#xA;&lt;p&gt;Última actualización: 21:13 hs. 08-03-2025&lt;/p&gt;&#xA;&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;&#xA;&#xA;&lt;style&gt;&#xA;  #embed-pdf-container {&#xA;    position: relative;&#xA;    width: 100%;&#xA;    height: auto;&#xA;    min-height: 20vh;&#xA;     &#xA;  }&#xA;  &#xA;  .pdf-canvas {&#xA;    border: 1px solid black;&#xA;    direction: ltr;&#xA;    width: 100%;&#xA;    height: auto;&#xA;    display: none;&#xA;  }&#xA;  &#xA;  #the-canvas {&#xA;    border: 1px solid black;&#xA;    direction: ltr;&#xA;    width: 100%;&#xA;    height: auto;&#xA;    display: none;&#xA;  }&#xA;  &#xA;  &#xA;  .pdf-loadingWrapper {&#xA;    display: none;&#xA;    justify-content: center;&#xA;    align-items: center;&#xA;    width: 100%;&#xA;    height: 350px;&#xA;  }&#xA;  &#xA;  .pdf-loading {&#xA;    display: inline-block;&#xA;    width: 50px;&#xA;    height: 50px;&#xA;    border: 3px solid #d2d0d0;;&#xA;    border-radius: 50%;&#xA;    border-top-color: #383838;&#xA;    animation: spin 1s ease-in-out infinite;&#xA;    -webkit-animation: spin 1s ease-in-out infinite;&#xA;  }&#xA;  &#xA;  &#xA;  &#xA;  &#xA;  &#xA;  #overlayText {&#xA;    word-wrap: break-word;&#xA;    display: grid;&#xA;    justify-content: end;&#xA;  }&#xA;  &#xA;  #overlayText a {&#xA;    position: relative;&#xA;    top: 10px;&#xA;    right: 4px;&#xA;    color: #000;&#xA;    margin: auto;&#xA;    background-color: #eeeeee;&#xA;    padding: 0.3em 1em;&#xA;    border: solid 2px;&#xA;    border-radius: 12px;&#xA;    border-color: #00000030;&#xA;    text-decoration: none;&#xA;  }&#xA;  &#xA;  #overlayText svg {&#xA;    height: clamp(1em, 2vw, 1.4em);&#xA;    width:  clamp(1em, 2vw, 1.4em);&#xA;  }&#xA;  &#xA;  &#xA;  &#xA;  @keyframes spin {&#xA;    to { -webkit-transform: rotate(360deg); }&#xA;  }&#xA;  @-webkit-keyframes spin {&#xA;    to { -webkit-transform: rotate(360deg); }&#xA;  }&#xA;  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-e0c0a3f3&#34;&gt;&#xA;    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-e0c0a3f3&#34;&gt;&#xA;        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-e0c0a3f3&#34;&gt;&lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div id=&#34;overlayText&#34;&gt;&#xA;      &lt;a href=&#34;http://cpem55.com/horario/3A.pdf&#34; aria-label=&#34;Download&#34; download&gt;&#xA;        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;&#xA;            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;&#xA;        &lt;/svg&gt;&#xA;      &lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-e0c0a3f3&#34;&gt;&lt;/canvas&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-e0c0a3f3&#34;&gt;&#xA;    &lt;button id=&#34;pdf-prev-e0c0a3f3&#34;&gt;Previous&lt;/button&gt;&#xA;    &lt;button id=&#34;pdf-next-e0c0a3f3&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;&#xA;    &lt;span&gt;&#xA;      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-e0c0a3f3&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-e0c0a3f3&#34;&gt;&lt;/span&gt;&#xA;    &lt;/span&gt;&#xA;    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-e0c0a3f3&#34; href=&#34;http://cpem55.com/horario/3A.pdf&#34;&gt;[pdf]&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;noscript&gt;&#xA;View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-e0c0a3f3&#34; href=&#34;http://cpem55.com/horario/3A.pdf&#34;&gt;here&lt;/a&gt;.&#xA;&lt;/noscript&gt;&#xA;&#xA;&lt;script type=&#34;text/javascript&#34;&gt;&#xA;    (function(){&#xA;    var url = &#39;\/horario\/3A.pdf&#39;;&#xA;&#xA;    var hidePaginator = &#34;true&#34; === &#34;true&#34;;&#xA;    var hideLoader = &#34;true&#34; === &#34;true&#34;;&#xA;    var selectedPageNum = parseInt(&#34;&#34;) || 1;&#xA;&#xA;    &#xA;    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];&#xA;&#xA;    &#xA;    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)&#xA;      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/cpem55.com\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;&#xA;&#xA;    &#xA;    var pdfDoc = null,&#xA;        pageNum = selectedPageNum,&#xA;        pageRendering = false,&#xA;        pageNumPending = null,&#xA;        scale = 3,&#xA;        canvas = document.getElementById(&#39;pdf-canvas-e0c0a3f3&#39;),&#xA;        ctx = canvas.getContext(&#39;2d&#39;),&#xA;        paginator = document.getElementById(&#34;pdf-paginator-e0c0a3f3&#34;),&#xA;        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-e0c0a3f3&#39;);&#xA;&#xA;&#xA;    &#xA;    showPaginator();&#xA;    showLoader();&#xA;&#xA;    &#xA;&#xA;    function renderPage(num) {&#xA;      pageRendering = true;&#xA;      &#xA;      pdfDoc.getPage(num).then(function(page) {&#xA;        var viewport = page.getViewport({scale: scale});&#xA;        canvas.height = viewport.height;&#xA;        canvas.width = viewport.width;&#xA;&#xA;        &#xA;        var renderContext = {&#xA;          canvasContext: ctx,&#xA;          viewport: viewport&#xA;        };&#xA;        var renderTask = page.render(renderContext);&#xA;&#xA;        &#xA;        renderTask.promise.then(function() {&#xA;          pageRendering = false;&#xA;          showContent();&#xA;&#xA;          if (pageNumPending !== null) {&#xA;            &#xA;            renderPage(pageNumPending);&#xA;            pageNumPending = null;&#xA;          }&#xA;        });&#xA;      });&#xA;&#xA;      &#xA;      document.getElementById(&#39;pdf-pagenum-e0c0a3f3&#39;).textContent = num;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function showContent() {&#xA;      loadingWrapper.style.display = &#39;none&#39;;&#xA;      canvas.style.display = &#39;block&#39;;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function showLoader() {&#xA;      if(hideLoader) return&#xA;      loadingWrapper.style.display = &#39;flex&#39;;&#xA;      canvas.style.display = &#39;none&#39;;&#xA;    }&#xA;&#xA;    &#xA;&#xA;&#xA;    function showPaginator() {&#xA;      paginator.style.display = (hidePaginator) ? &#39;none&#39; : &#39;block&#39;;&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function queueRenderPage(num) {&#xA;      if (pageRendering) {&#xA;        pageNumPending = num;&#xA;      } else {&#xA;        renderPage(num);&#xA;      }&#xA;    }&#xA;&#xA;    &#xA;&#xA;    function onPrevPage() {&#xA;      if (pageNum &lt;= 1) {&#xA;        return;&#xA;      }&#xA;      pageNum--;&#xA;      queueRenderPage(pageNum);&#xA;    }&#xA;    document.getElementById(&#39;pdf-prev-e0c0a3f3&#39;).addEventListener(&#39;click&#39;, onPrevPage);&#xA;&#xA;    &#xA;&#xA;    function onNextPage() {&#xA;      if (pageNum &gt;= pdfDoc.numPages) {&#xA;        return;&#xA;      }&#xA;      pageNum++;&#xA;      queueRenderPage(pageNum);&#xA;    }&#xA;    document.getElementById(&#39;pdf-next-e0c0a3f3&#39;).addEventListener(&#39;click&#39;, onNextPage);&#xA;&#xA;    &#xA;&#xA;    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {&#xA;      pdfDoc = pdfDoc_;&#xA;      var numPages = pdfDoc.numPages;&#xA;      document.getElementById(&#39;pdf-pagecount-e0c0a3f3&#39;).textContent = numPages;&#xA;&#xA;      &#xA;      if(pageNum &gt; numPages) {&#xA;        pageNum = numPages&#xA;      }&#xA;&#xA;      &#xA;      renderPage(pageNum);&#xA;    });&#xA;    })();&#xA;&lt;/script&gt;</description>
+    </item>
   </channel>
 </rss>

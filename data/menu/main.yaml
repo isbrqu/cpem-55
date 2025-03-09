@@ -1,17 +1,29 @@
 ---
 main:
-  - name: Novedades
-    ref: '/novedades'
-    icon: 'gdoc_notification'
-  - name: Calendario
-    ref: '/calendario'
-    icon: 'gdoc_date'
-  - name: Cursos
-    ref: '/cursos'
-    icon: 'gdoc_path'
-  - name: Personal
-    ref: '/personal'
-    icon: 'gdoc_person'
-  - name: Documentos
-    ref: '/documentos'
+  - name: Inicio
+    ref: '/'
+    icon: 'gdoc_home'
+
+  - name: Horarios
+    ref: '/horarios'
+    icon: 'gdoc_timer'
+    
+  - name: Programas
+    ref: '/programas'
     icon: 'gdoc_copy'
+
+  - name: Mesas
+    ref: '/mesas'
+    icon: 'gdoc_date'
+
+  - name: Secretaría
+    ref: '/secretaria'
+    icon: 'gdoc_gitea'
+
+  - name: Biblioteca
+    ref: '/biblioteca'
+    icon: 'gdoc_bookmark'
+
+  - name: Acuerdos
+    ref: '/acuerdos'
+    icon: 'gdoc_person'
