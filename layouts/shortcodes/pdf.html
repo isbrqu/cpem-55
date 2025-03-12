@@ -1,0 +1,9 @@
+{{- $name := .Page.File.BaseFileName }}
+
+{{- with .Get "name" }}
+  {{- $name = . }}
+{{- end }}
+
+<a href="/horario/{{ $name }}.pdf" target="_blank" rel="noopener noreferrer">
+	<img src="/horario/{{ $name }}.png" alt="Horarios de {{ $name }}" title="Horarios de {{ $name }}">
+</a>
