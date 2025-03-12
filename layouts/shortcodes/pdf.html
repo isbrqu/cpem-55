@@ -4,6 +4,17 @@
   {{- $name = . }}
 {{- end }}
 
-<a href="/horario/{{ $name }}.pdf" target="_blank" rel="noopener noreferrer">
-	<img src="/horario/{{ $name }}.jpg" alt="Horarios de {{ $name }}" title="Horarios de {{ $name }}">
-</a>
+<link rel="stylesheet" href="/download.css">
+
+<div class="embed-pdf-container">
+	<div class="overlayText">
+			<a href="/horario/{{ $name }}.pdf" aria-label="Download" download>
+					<svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+									<path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+					</svg>
+			</a>
+	</div>
+	<a href="/horario/{{ $name }}.pdf" target="_blank" rel="noopener noreferrer">
+		<img src="/horario/{{ $name }}.jpg" alt="Horarios de {{ $name }}" title="Horarios de {{ $name }}">
+	</a>
+</div>
