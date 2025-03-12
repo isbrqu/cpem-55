@@ -1,0 +1,22 @@
+.pdf-img-container {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	height: auto;
+	min-height: 20vh;
+}
+
+.download {
+	position: absolute;
+	top: 20px;
+	left: 10px;
+	padding: 8px 10px;
+	background: rgba(10, 83, 154, .7);
+	border-radius: 10px;
+}
+
+.download svg {
+	width: 20px;
+	height: 20px;
+	fill: white;
+}
