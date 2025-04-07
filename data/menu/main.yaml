@@ -7,14 +7,18 @@ main:
   - name: Horarios
     ref: '/horarios'
     icon: 'gdoc_timer'
+
+  - name: Mesas
+    ref: '/mesas'
+    icon: 'gdoc_date'
     
   - name: Programas
     ref: '/programas'
     icon: 'gdoc_copy'
 
-  - name: Mesas
-    ref: '/mesas'
-    icon: 'gdoc_date'
+  - name: Clases de consulta
+    ref: '/programas'
+    icon: 'gdoc_copy'
 
   - name: Secretaría
     ref: '/secretaria'
