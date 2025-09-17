@@ -4,7 +4,7 @@ date: 2025-09-17T15:21:58-03:00
 draft: false
 ---
 
-# Cargando...
+# Cargando documento..
 
 ## Por favor espere.
 
