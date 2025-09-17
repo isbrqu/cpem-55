@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cpem55.com/ejemplo/</loc>
-    <lastmod>2025-09-17T15:54:26-03:00</lastmod>
-  </url><url>
     <loc>http://cpem55.com/</loc>
+    <lastmod>2025-09-17T16:24:59-03:00</lastmod>
+  </url><url>
+    <loc>http://cpem55.com/memorial/</loc>
+    <lastmod>2025-09-17T16:24:59-03:00</lastmod>
+  </url><url>
+    <loc>http://cpem55.com/cuadro/</loc>
+    <lastmod>2025-09-17T16:23:07-03:00</lastmod>
+  </url><url>
+    <loc>http://cpem55.com/ejemplo/</loc>
     <lastmod>2025-09-17T15:54:26-03:00</lastmod>
   </url><url>
     <loc>http://cpem55.com/jornada/</loc>
