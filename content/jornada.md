@@ -10,5 +10,5 @@ draft: false
 
 ![Cargando](../img/loading.gif)
 
-<meta http-equiv="refresh" content="0; url=https://docs.google.com/document/d/1-M3NpGe7DH7QtlUSEck2M-s0eXs80dtpeW9M3o_lar8/edit">
+<meta http-equiv="refresh" content="0; url=https://drive.google.com/drive/folders/1YsL4Q5viqrjf8wAVzyqxVM3r7qcRv8N7?usp=drive_link">
 
