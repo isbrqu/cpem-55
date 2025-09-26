@@ -4,30 +4,31 @@ main:
     ref: '/'
     icon: 'gdoc_home'
 
-  - name: Horarios
-    ref: '/horarios'
-    icon: 'gdoc_timer'
-
-  - name: Mesas
-    ref: '/mesas'
-    icon: 'gdoc_date'
-    
-  - name: Programas
-    ref: '/programas'
-    icon: 'gdoc_copy'
-
-  - name: Clases de consulta
-    ref: '/programas'
-    icon: 'gdoc_copy'
-
-  - name: Secretaría
-    ref: '/secretaria'
-    icon: 'gdoc_gitea'
-
-  - name: Biblioteca
-    ref: '/biblioteca'
+  - name: Resoluciones
+    ref: '/resoluciones'
     icon: 'gdoc_bookmark'
 
   - name: Acuerdos
     ref: '/acuerdos'
     icon: 'gdoc_person'
+
+  # - name: Programas
+  #   ref: '/programas'
+  #   icon: 'gdoc_bookmark'
+  
+  # - name: Horarios
+  #   ref: '/horarios'
+  #   icon: 'gdoc_timer'
+
+  # - name: Mesas
+  #   ref: '/mesas'
+  #   icon: 'gdoc_date'
+
+  # - name: Clases de consulta
+  #   ref: '/programas'
+  #   icon: 'gdoc_bookmark'
+
+  # - name: Secretaría
+  #   ref: '/secretaria'
+  #   icon: 'gdoc_gitea'
+

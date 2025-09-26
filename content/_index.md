@@ -3,13 +3,23 @@ title: 'Inicio'
 geekdocBreadcrumb: false
 ---
 
+<style>
+/* Estilo para todos los enlaces dentro del shortcode */
+a.link-custom {
+  color: #0066cc;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  transition: color 0.3s ease;
+}
 
-{{< button href="horarios" size="small" >}} {{< icon "gdoc_timer" >}} HORARIOS {{< /button >}}
-{{< button href="mesas" size="small" >}} {{< icon "gdoc_date" >}} MESAS {{< /button >}}
-{{< button href="programas" size="small" >}} {{< icon "gdoc_copy" >}} PROGRAMAS {{< /button >}}
-{{< button href="secretaria" size="small" >}} {{< icon "gdoc_gitea" >}} SECRETARÍA {{< /button >}}
-{{< button href="biblioteca" size="small" >}} {{< icon "gdoc_bookmark" >}} BIBLIOTECA {{< /button >}}
-{{< button href="acuerdos" size="small" >}} {{< icon "gdoc_person" >}} ACUERDOS {{< /button >}}
+a.link-custom {
+  color: #004080;
+}
+</style>
 
-<img src="entrada-edificio.jpg" alt="Entrada del CPEM 55">
+- {{<link href="resoluciones">}}
+- {{<link href="acuerdos">}}
+
+![Entrada del CPEM 55](entrada-edificio.jpg)
 
