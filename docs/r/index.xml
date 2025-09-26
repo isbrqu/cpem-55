@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on CPEM 55</title>
-    <link>http://localhost:1313/r/</link>
+    <link>http://cpem55.com/r/</link>
     <description>Recent content in R on CPEM 55</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cpem55.com/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redirigiendo...</title>
-      <link>http://localhost:1313/r/cym-3a/</link>
+      <link>http://cpem55.com/r/cym-3a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/r/cym-3a/</guid>
+      <guid>http://cpem55.com/r/cym-3a/</guid>
       <description>&lt;meta http-equiv=&#34;refresh&#34; content=&#34;0; url=https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQhw-cKKZI2flSsdQL-JU0lmE7b8IZ6jXTrX4T8eXp5_mi9tJhiUnd2XxIURAsb_1BBJs4AL4UR4DYw/pubhtml?gid=0&amp;single=true&amp;pli=1&#34; /&gt;</description>
     </item>
   </channel>

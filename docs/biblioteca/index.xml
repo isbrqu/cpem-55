@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biblioteca on CPEM 55</title>
-    <link>http://localhost:1313/biblioteca/</link>
+    <link>http://cpem55.com/biblioteca/</link>
     <description>Recent content in Biblioteca on CPEM 55</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/biblioteca/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cpem55.com/biblioteca/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

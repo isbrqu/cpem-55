@@ -38,4 +38,3 @@ a.link-custom {
 
 <!-- - {{<elink txt="1381 / 2022 D 10. Área: TECNOLOGÍA AGROPECUARIA" url="pdf/r_1381_2022-D-10-TEC.AGR_.pdf">}} -->
 <!-- - {{<elink txt="1381 / 2022 D 11. " url="pdf/r_1381_2022-D-11-ECO.pdf">}} -->
-<!-- - {{<elink txt="TECNOLOGÍA" 																															url="pdf/r_1381_2022-D-9-TEC.pdf">}} -->
