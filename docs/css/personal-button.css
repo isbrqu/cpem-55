@@ -1,0 +1,20 @@
+.gdoc-button.jornada {
+  background: var(--mark-color);
+  color: black;
+}
+.gdoc-button.acto {
+  background: #87CEFA;
+  color: black;
+}
+.gdoc-button.clase {
+  background: var(--accent-color-lite);
+  color: var(--body-font-color);
+}
+.gdoc-button.feriado {
+  background: #8C79FF;
+  color: white;
+}
+.gdoc-button.vacacion {
+  background: #4169E1;
+  color: white;
+}

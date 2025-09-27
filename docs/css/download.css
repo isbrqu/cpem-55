@@ -1,0 +1,35 @@
+.embed-pdf-container {
+	position: relative;
+	display: inline-block;
+	max-width: fit-content;
+	height: auto;
+	min-height: 20vh;
+}
+
+.overlayText {
+	word-wrap: break-word;
+	display: grid;
+	justify-content: end;
+}
+
+.overlayText a {
+	position: relative;
+	top: 40px;
+	color: #000;
+	background-color: #eeeeee;
+	padding: 0.3em 1em;
+	border: solid 2px;
+	border-radius: 12px;
+	border-color: #00000030;
+	text-decoration: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+
+.overlayText svg {
+	height: clamp(1em, 2vw, 1.4em);
+	width:  clamp(1em, 2vw, 1.4em);
+}
+
