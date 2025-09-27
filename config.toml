@@ -1,6 +1,6 @@
 baseURL = "http://cpem55.com"
 title = "CPEM 55"
-theme = ["hugo-embed-pdf-shortcode", "hugo-geekdoc"]
+theme = ["hugo-geekdoc"]
 
 publishDir = 'docs'
 
