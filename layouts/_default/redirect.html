@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  {{- with .Params.urlRedirect }}
+    <meta http-equiv="refresh" content="0; url={{ . }}">
+    <link rel="canonical" href="{{ . }}">
+    <title>Redirigiendo...</title>
+  {{- else }}
+    <title>{{ .Title }}</title>
+  {{- end }}
+  <meta name="robots" content="noindex">
+  <style>
+    body {
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    p { font-size: 1.2rem; }
+  </style>
+</head>
+<body>
+  {{- with .Params.urlRedirect -}}
+    <h1>Redirigiendo a <a href="{{ . }}">{{ . }}</a>...</h1>
+    <script>window.location.replace("{{ . }}");</script>
+  {{- else -}}
+    <h1>No se ha definido a donde redireccionar :/<br><a href="/">Volver</a></h1>
+    {{ .Content }}
+  {{- end -}}
+</body>
+</html>
