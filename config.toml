@@ -2,8 +2,6 @@ baseURL = "http://cpem55.com"
 title = "CPEM 55"
 theme = ["hugo-geekdoc"]
 
-publishDir = 'docs'
-
 defaultContentLanguage = 'es'
 
 enableInlineShortcodes = true
