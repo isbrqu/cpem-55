@@ -6,7 +6,8 @@ customCss = ['css/custom-link.css']
 
 ## Organización y Secuenciación de Conocimientos y Saberes para el Ciclo Básico Común (CBC) y Enlace Pedagógico Interciclo
 
-- [Esto es una prueba](/jornada)
+Resolución 1381/2022 y 1584/2022:
+
 - {{<link newtab="true" url="pdf/r_1381_2022-D-1-INTRO.pdf" txt="Introducción">}}
 - {{<link newtab="true" url="pdf/r_1381_2022-D-2-Planificacion.pdf" txt="La planificación curricular de área">}}
 - {{<link newtab="true" url="pdf/r_1381_2022-D-3-CSPYE.pdf" txt="CIENCIAS SOCIALES, POLÍTICAS Y ECONÓMICAS">}}
@@ -20,7 +21,9 @@ customCss = ['css/custom-link.css']
 
 ## Sobre la Organización del Trabajo Escolar y el Acompañamiento a las Trayectorias SocioEducativas (TSE)
 
-- {{<link url="pdf/r_1278_2024_TRAYECTORIAS_SOCIOEDUCATIVAS.pdf" txt="1278 / 2024 - Trayectorias SocioEducativas (TSE)">}}
+Resolución 1278/2024
+
+- {{<link url="pdf/r_1278_2024_TRAYECTORIAS_SOCIOEDUCATIVAS.pdf" txt="Trayectorias SocioEducativas (TSE)">}}
 
 ## Otros
 
