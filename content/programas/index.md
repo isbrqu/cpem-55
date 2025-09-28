@@ -1,6 +1,6 @@
----
-title: 'Programas'
----
++++
+title = 'Programas'
++++
 
 {{< button href="#" >}} Fortalecimiento {{< /button >}}
 {{< button href="#" >}} Regulares {{< /button >}}

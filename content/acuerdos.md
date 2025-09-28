@@ -1,6 +1,6 @@
----
-title: "ACUERDOS DE CONVIVENCIA ESCOLAR - Res. 1172/2012"
----
++++
+title = 'ACUERDOS DE CONVIVENCIA ESCOLAR - Res. 1172/2012'
++++
 
 ## De los derechos y obligaciones de los estudiantes:
 

@@ -1,7 +1,7 @@
----
-title: "Post 1"
-date: 2023-03-10T19:53:57-03:00
----
++++
+title = 'Post 1'
+date = 2023-03-10T19:53:57-03:00
++++
 
 Esto es un Lorem ipsum dolor sit amet, consectetur adipiscing elit,
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

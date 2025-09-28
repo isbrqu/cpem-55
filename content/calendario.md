@@ -1,9 +1,8 @@
----
-title: 'Calendario'
-date: 2023-03-10T21:44:44-03:00
----
-
-<link rel="stylesheet" href="/personal-button.css">
++++
+title = 'Calendario'
+date = 2023-03-10T21:44:44-03:00
+customCss = ['css/personal-button.css']
++++
 
 {{< c >}}Clase{{< /c >}}
 {{< a >}}Acto{{< /a >}}

@@ -1,9 +1,9 @@
----
-title: "Resoluciones"
-date: 2025-09-26T11:43:01-03:00
-customCss: ['css/link-custom.css']
-draft: false
----
++++
+title = 'Resoluciones'
+date = 2025-09-26T11:43:01-03:00
+customCss = ['css/link-custom.css']
+draft = false
++++
 
 ## Organización y Secuenciación de Conocimientos y Saberes para el Ciclo Básico Común (CBC) y Enlace Pedagógico Interciclo
 
