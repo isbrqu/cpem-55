@@ -7,5 +7,4 @@ customCss = ['css/custom-link.css']
 - {{<link href="resoluciones">}}
 - {{<link href="acuerdos">}}
 
-![Entrada del CPEM 55](img/entrada-edificio.jpg)
-
+<img src="img/entrada-edificio-min.jpg" alt="Entrada del CPEM 55" width="983">
