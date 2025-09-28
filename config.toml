@@ -10,7 +10,8 @@ pluralizeListTitles = false
 # Geekdoc required configuration
 pygmentsUseClasses = true
 pygmentsCodeFences = true
-disablePathToLower = true
+
+disablePathToLower = false
 
 disableHugoGeneratorInject = true
 
