@@ -12,6 +12,8 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
 
+disableHugoGeneratorInject = true
+
 # Required if you want to render robots.txt template
 enableRobotsTXT = true
 
@@ -24,9 +26,9 @@ enableRobotsTXT = true
     startLevel = 1
     endLevel = 9
 
-[taxonomies]
-   tag = "tags"
+# [taxonomies]
+#    tag = "tags"
 
 [params]
-   geekdocMenuBundle = true
-   geekdocLogo = "logo.png"
+  geekdocMenuBundle = true
+  geekdocSearch = false
