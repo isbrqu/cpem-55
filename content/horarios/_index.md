@@ -1,6 +1,6 @@
 +++
-title: 'Horarios'
-date: 2023-03-10T20:01:31-03:00
+title = 'Horarios'
+date = 2023-03-10T20:01:31-03:00
 +++
 
 {{< tabs "turnos" >}}
