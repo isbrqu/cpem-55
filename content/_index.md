@@ -1,7 +1,7 @@
 +++
 title = 'Inicio'
 geekdocBreadcrumb = false
-customCss = ['css/link-custom.css']
+customCss = ['css/custom-link.css']
 +++
 
 - {{<link href="resoluciones">}}

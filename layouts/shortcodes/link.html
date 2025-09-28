@@ -1,0 +1,27 @@
+{{/*
+Shortcode: link.html
+Uso:
+{{<link url="https://ejemplo.com" txt="Texto opcional" newtab="true">}}
+o
+{{<link href="https://ejemplo.com">}}
+*/}}
+
+{{/* Tomamos url o href */}}
+{{ $href := .Get "url" }}
+{{ if not $href }}
+  {{ $href = .Get "href" }}
+{{ end }}
+
+{{/* Texto mostrado: txt o URL en mayúsculas */}}
+{{ $txt := .Get "txt" }}
+{{ if not $txt }}
+  {{ $txt = upper $href }}
+{{ end }}
+
+{{/* newtab opcional */}}
+{{ $newtab := .Get "newtab" }}
+
+<a href="{{ $href }}" class="gdoc-markdown__link custom-link"
+  {{ if eq $newtab "true" }}target="_blank" rel="noopener noreferrer"{{ end }}>
+  {{ $txt }}
+</a>

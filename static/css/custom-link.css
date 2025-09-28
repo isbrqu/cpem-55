@@ -1,0 +1,14 @@
+a.gdoc-markdown__link {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+a.custom-link:visited,
+a.gdoc-markdown__link:visited {
+  color: var(--link-color);
+}
+
+li:has(a.custom-link) {
+  margin: 10px 0;
+}
