@@ -25,6 +25,14 @@ Resolución 1278/2024
 
 - {{<link url="pdf/r_1278_2024_TRAYECTORIAS_SOCIOEDUCATIVAS.pdf" txt="Trayectorias SocioEducativas (TSE)">}}
 
+## Diseño Curricular Jurisdiccional Nivel Secundario (Ciclo Orientado)
+
+Resolución 1044/2019: Anexo III y Anexo V
+
+- {{<link newtab="true" url="pdf/r_1044_19_ESO_Anexo_03_Bachiller_Cs_Naturales.pdf" txt="Bachiller en CS. NATURALES">}}
+- {{<link newtab="true" url="pdf/r_1044_19_ESO_Anexo_05_Bachiller_Comunicacion_Parte_1.pdf" txt="Bachiller en COMUNICACIÓN (PARTE 1)">}}
+- {{<link newtab="true" url="pdf/r_1044_19_ESO_Anexo_05_Bachiller_Comunicacion_Parte_2.pdf" txt="Bachiller en COMUNICACIÓN (PARTE 2)">}}
+
 ## Otros
 
 - {{<link url="pdf/Anexos_para_el_trabajo_con_CONOCIMIENTOS_Y_SABERES.pdf" txt="Anexos para el trabajo con CONOCIMIENTOS Y SABERES">}}
