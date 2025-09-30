@@ -6,8 +6,15 @@
     <description>Recent content in Inicio on CPEM 55</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 26 Sep 2025 11:43:01 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 19:26:09 -0300</lastBuildDate>
     <atom:link href="http://cpem55.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://cpem55.com/test/</link>
+      <pubDate>Sun, 28 Sep 2025 19:26:09 -0300</pubDate>
+      <guid>http://cpem55.com/test/</guid>
+      <description>&lt;p&gt;esto es una prueba&lt;/p&gt;&#xA;&lt;script src=&#34;http://cpem55.com/js/papaparse.v5-4-1.min.js&#34; defer&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;http://cpem55.com/js/table-of-csv.js&#34; defer&gt;&lt;/script&gt;&#xA;&lt;p&gt;&lt;label for=&#34;filtro&#34;&gt;Elegí un ítem (columna 1):&lt;/label&gt;&#xA;&lt;select id=&#34;filtro&#34;&gt;&lt;/select&gt;&lt;/p&gt;&#xA;&lt;div id=&#34;resultado&#34;&gt;&lt;/div&gt;&#xA;&lt;style&gt;&#xA;  #resultado ul { margin: .5rem 0 1rem; padding-left: 1.2rem; }&#xA;  #resultado li { margin: .2rem 0; }&#xA;  #resultado li .value { white-space: pre-wrap; } /* respeta saltos de línea en celdas */&#xA;  /* Colores solicitados */&#xA;  .estado--fuera { background-color: #fff59d; }   /* amarillo suave */&#xA;  .estado--aprobado { background-color: #c8e6c9; }/* verde suave */&#xA;  .estado--incompleto { background-color: #ffcc80;}/* naranja suave */&#xA;  .estado--sin { background-color: #ffffff; }     /* blanco */&#xA;&lt;/style&gt;</description>
+    </item>
     <item>
       <title>Resoluciones</title>
       <link>http://cpem55.com/resoluciones/</link>
@@ -328,6 +335,20 @@
       <link>http://cpem55.com/jornada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://cpem55.com/jornada/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lengua</title>
+      <link>http://cpem55.com/3a/lengua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cpem55.com/3a/lengua/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lengua</title>
+      <link>http://cpem55.com/3b/lengua/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cpem55.com/3b/lengua/</guid>
       <description></description>
     </item>
     <item>
