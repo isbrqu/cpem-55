@@ -29,9 +29,12 @@ Resolución 1278/2024
 
 Resolución 1044/2019: Anexo III y Anexo V
 
-- {{<link newtab="true" url="pdf/r_1044_19_ESO_Anexo_03_Bachiller_Cs_Naturales.pdf" txt="Bachiller en CS. NATURALES">}}
-- {{<link newtab="true" url="pdf/r_1044_19_ESO_Anexo_05_Bachiller_Comunicacion_Parte_1.pdf" txt="Bachiller en COMUNICACIÓN (PARTE 1)">}}
-- {{<link newtab="true" url="pdf/r_1044_19_ESO_Anexo_05_Bachiller_Comunicacion_Parte_2.pdf" txt="Bachiller en COMUNICACIÓN (PARTE 2)">}}
+<!-- https://educaciondigital.neuquen.gov.ar/wp-content/uploads/2019/12/r_1044_19_ESO_Anexo_03_Bachiller_Cs_Naturales.pdf -->
+- {{<link newtab="true" url="https://drive.google.com/file/d/1uYo54RtbmHct7xmJkWXG60Mn5NYY8WKI/view" txt="Bachiller en CS. NATURALES" >}}
+<!-- https://educaciondigital.neuquen.gov.ar/wp-content/uploads/2019/12/r_1044_19_ESO_Anexo_05_Bachiller_Comunicacion_Parte_1.pdf -->
+- {{<link newtab="true" url="https://drive.google.com/file/d/13GAEHPeDWdn7ZjNHp4bkgdzd3hLCADaj/view" txt="Bachiller en COMUNICACIÓN (PARTE 1)" >}}
+<!-- https://educaciondigital.neuquen.gov.ar/wp-content/uploads/2019/12/r_1044_19_ESO_Anexo_05_Bachiller_Comunicacion_Parte_2.pdf -->
+- {{<link newtab="true" url="https://drive.google.com/file/d/1KMR-37a5W9b38uR3ux1x1Dul0fWL42pd/view" txt="Bachiller en COMUNICACIÓN (PARTE 2)" >}}
 
 ## Otros
 
