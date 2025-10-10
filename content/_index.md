@@ -7,5 +7,6 @@ customCss = ['css/custom-link.css']
 - {{<link href="mesas">}}
 - {{<link href="resoluciones">}}
 - {{<link href="acuerdos">}}
+- {{<link href="cursos">}}
 
 <img src="img/entrada-edificio-min.jpg" alt="Entrada del CPEM 55" width="983">
