@@ -4,6 +4,7 @@ geekdocBreadcrumb = false
 customCss = ['css/custom-link.css']
 +++
 
+- {{<link href="jornada">}}
 - {{<link href="mesas">}}
 - {{<link href="resoluciones">}}
 - {{<link href="acuerdos">}}
