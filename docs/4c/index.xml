@@ -9,10 +9,24 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cpem55.com/4c/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4C Comunicación</title>
-      <link>http://cpem55.com/4c/comunicacion/</link>
+      <title>4C Laboratorio de Medios</title>
+      <link>http://cpem55.com/4c/lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://cpem55.com/4c/comunicacion/</guid>
+      <guid>http://cpem55.com/4c/lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4C Producción en lenguajes</title>
+      <link>http://cpem55.com/4c/pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cpem55.com/4c/pl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4C Transformaciones Socioculturales del Siglo XXI</title>
+      <link>http://cpem55.com/4c/tss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cpem55.com/4c/tss/</guid>
       <description></description>
     </item>
   </channel>

@@ -9,10 +9,17 @@
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cpem55.com/4b/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>4B Locución, fotografía y filmación</title>
-      <link>http://cpem55.com/4b/lff/</link>
+      <title>4B Laboratorio de Medios</title>
+      <link>http://cpem55.com/4b/lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://cpem55.com/4b/lff/</guid>
+      <guid>http://cpem55.com/4b/lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4B Producción en lenguajes</title>
+      <link>http://cpem55.com/4b/pl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://cpem55.com/4b/pl/</guid>
       <description></description>
     </item>
   </channel>

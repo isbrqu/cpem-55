@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cpem55.com/</loc>
-    <lastmod>2025-09-28T19:26:09-03:00</lastmod>
-  </url><url>
-    <loc>http://cpem55.com/test/</loc>
-    <lastmod>2025-09-28T19:26:09-03:00</lastmod>
-  </url><url>
     <loc>http://cpem55.com/4b/</loc>
     <lastmod>2025-09-28T13:57:26-03:00</lastmod>
   </url><url>
@@ -18,6 +12,9 @@
     <lastmod>2025-09-28T13:57:26-03:00</lastmod>
   </url><url>
     <loc>http://cpem55.com/5c/</loc>
+    <lastmod>2025-09-28T13:57:26-03:00</lastmod>
+  </url><url>
+    <loc>http://cpem55.com/</loc>
     <lastmod>2025-09-28T13:57:26-03:00</lastmod>
   </url><url>
     <loc>http://cpem55.com/3d/</loc>
@@ -159,9 +156,15 @@
   </url><url>
     <loc>http://cpem55.com/3e/cym/</loc>
   </url><url>
-    <loc>http://cpem55.com/4b/lff/</loc>
+    <loc>http://cpem55.com/4b/lab/</loc>
   </url><url>
-    <loc>http://cpem55.com/4c/comunicacion/</loc>
+    <loc>http://cpem55.com/4b/pl/</loc>
+  </url><url>
+    <loc>http://cpem55.com/4c/lab/</loc>
+  </url><url>
+    <loc>http://cpem55.com/4c/pl/</loc>
+  </url><url>
+    <loc>http://cpem55.com/4c/tss/</loc>
   </url><url>
     <loc>http://cpem55.com/4e/</loc>
   </url><url>
@@ -182,6 +185,10 @@
     <loc>http://cpem55.com/3b/cym/</loc>
   </url><url>
     <loc>http://cpem55.com/cursos/</loc>
+  </url><url>
+    <loc>http://cpem55.com/informes/</loc>
+    <changefreq>never</changefreq>
+    <priority>0</priority>
   </url><url>
     <loc>http://cpem55.com/jornada/</loc>
   </url><url>
