@@ -5,3 +5,4 @@ date = 2025-09-28T13:57:26-03:00
 
 - [Producción en Lenguajes](pl)
 - [Comunicación y Políticas Públicas](cpp)
+- [EPA: Comunicación y Políticas Públicas - Transformaciones Socioculturales del Siglo XXI](epa-cpp-tss)
